@@ -4,13 +4,13 @@ module.exports = {
 
     idbot: "XXX", //Bot ID
 
-    prefix: "XXX", //Bot prefix
+    prefix: "!", //Bot prefix - (!) Preferred Prefix (Replaceable) -
 
     basiclang: "en", //The basic language of the bot, "fr" for French and "en" for English
 
     embeds: {
-        color: "BLUE", //Embed color (in English)
-        footers: "Kurmy template by !Zerio.js#2020" //Embed footer
+        color: "BLACK", //Embed color (in English)
+        footers: "Bot Developer by Deleted User 61b08a7f#0001" //Embed footer
     },
 
     start: {
@@ -28,7 +28,7 @@ module.exports = {
     grole: "Giveaways", //If the member doesn't have permission to handle messages he can still use the giveaways commands if he has the role configured right here
 
     auth: {
-        support: "XXX", //The link of your Discord server
-        dperms: "8" //The permissions that the bot asks on we want to add it on a Discord server (8 = moderator)
+        support: "https://discord.gg/E5vJE2trn8", 
+        dperms: "8" //The permissions that the bot asks on we want to add it on a Discord server (8 = Administrator)
     },
 };
