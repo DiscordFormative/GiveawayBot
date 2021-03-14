@@ -3,6 +3,10 @@ A complete code for a Discord bot to do contests. Easy to modify and free
 
 This code is open source, you can modify it in your own way. If you want to, consider leaving the link to this Github project in a place on the bot to show that you respect the work of others.
 
+
+# Turkish Language Support Coming Soon!
+
+
 ## 📚 - Presentation
 
 This template is here to help you build a bot that will make Giveaways.
