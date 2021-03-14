@@ -127,6 +127,6 @@ Thank you for using this code !
 - Modification of the help and new command to invite the bot
 ```
 ```
-- Minor bug fixes
+- Minor bug fixes!
 ```
 
