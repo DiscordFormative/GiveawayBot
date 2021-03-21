@@ -14,8 +14,8 @@ module.exports = {
     },
 
     start: {
-        loading: "XXX", //Loading status
-        activity: "XXX" //Status
+        loading: "Giweavay Bot 🎉", //Loading status
+        activity: "Giweavay Bot 🎉" //Status
     },
 
     events: {
