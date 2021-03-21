@@ -6,6 +6,8 @@ This code is open source, you can modify it in your own way. If you want to, con
 
 # Turkish Language Support Coming Soon!
 
+## Turkish Version Will Come When Our YouTube Channel Has 1000 Subscribers
+
 
 ## 📚 - Presentation
 
